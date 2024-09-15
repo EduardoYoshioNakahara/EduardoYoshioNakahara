@@ -1,13 +1,18 @@
 <h1 align="center">Ola 👋, eu sou Eduardo Yoshio</h1>
 <h3 align="center">Um entusiasta em análise de dados de São Paulo, Brasil, desbravando o universo dos dados com curiosidade e dedicação</h3>
+👋 Olá, eu sou o Eduardo, um analista de dados em início de carreira de São Paulo, Brasil. Formado em Sistemas de Informação pela FIAP, atualmente estou expandindo meus conhecimentos em um curso técnico focado em análise de dados.
 
-- 🌱 Atualmente estou estudando **python e suas bibliotecas, machine learning**
+🔧 Estou começando a aplicar minhas habilidades com Python, Power BI, e bibliotecas como Pandas, NumPy e Seaborn. Meu interesse se concentra no tratamento de dados, machine learning e estatísticas.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EduardoYoshioNakahara](https://github.com/EduardoYoshioNakahara)
+🚀 No curto prazo, estou buscando oportunidades para migrar para a área de análise de dados e colocar em prática o que estou aprendendo. A longo prazo, meu objetivo é me especializar e me tornar uma referência na área.
 
-- 💬 Ask me about **Python, SQL, PowerBI e Excel**
+⚽ Além do meu trabalho, sou apaixonado por esportes e adoro explorar padrões e insights através de dados como hobby.
 
-- 📫 você me acha através do e-mail **eduardoyoshio153@gmail.com**
+🔗 Conecte-se comigo no LinkedIn para acompanhar minhas atualizações e projetos!
+
+👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EduardoYoshioNakahara](https://github.com/EduardoYoshioNakahara)
+
+📫 você me acha através do e-mail **eduardoyoshio153@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
