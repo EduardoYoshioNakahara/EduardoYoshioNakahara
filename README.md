@@ -1,6 +1,5 @@
 <h1 align="center">Ola 👋, eu sou Eduardo Yoshio</h1>
 <h3 align="center">Um entusiasta em análise de dados de São Paulo, Brasil, desbravando o universo dos dados com curiosidade e dedicação</h3>
-👋 Olá, eu sou o Eduardo, um analista de dados em início de carreira de São Paulo, Brasil. Formado em Sistemas de Informação pela FIAP, atualmente estou expandindo meus conhecimentos em um curso técnico focado em análise de dados.
 
 🔧 Estou começando a aplicar minhas habilidades com Python, Power BI, e bibliotecas como Pandas, NumPy e Seaborn. Meu interesse se concentra no tratamento de dados, machine learning e estatísticas.
 
