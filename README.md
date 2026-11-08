@@ -1,22 +1,35 @@
-<h1 align="center">Ola 👋, eu sou Eduardo Yoshio</h1>
-<h3 align="center">Um entusiasta em análise de dados de São Paulo, Brasil, desbravando o universo dos dados com curiosidade e dedicação</h3>
+# Olá 👋, eu sou o Eduardo Yoshio
 
-🔧 Estou começando a aplicar minhas habilidades com Python, Power BI, e bibliotecas como Pandas, NumPy e Seaborn. Meu interesse se concentra no tratamento de dados, machine learning e estatísticas.
+Analista de dados e BI em São Paulo. Trabalho do dado bruto ao dashboard: modelo camadas bronze, silver e gold em SQL, versiono as transformações e entrego relatórios em Power BI que as áreas de negócio usam no dia a dia.
 
-🚀 No curto prazo, estou buscando oportunidades para migrar para a área de análise de dados e colocar em prática o que estou aprendendo. A longo prazo, meu objetivo é me especializar e me tornar uma referência na área.
+### 🔧 O que eu faço
+- **SQL** em BigQuery e Databricks: modelagem em camadas, MERGE incremental, deduplicação e checagens de qualidade
+- **Dataform / Delta Lake** para transformações versionadas e reprocessáveis
+- **Power BI**: modelagem semântica, DAX, segurança por linha (RLS) e projetos em PBIP versionados no Git
+- **Python** para ingestão de APIs e automação (requests, pyarrow, pandas)
+- **Git e GitHub Actions** em todo o fluxo: branch, PR e deploy só depois do merge
 
-⚽ Além do meu trabalho, sou apaixonado por esportes e adoro explorar padrões e insights através de dados como hobby.
+### 🧭 Como eu trabalho
+Desconfio de execução verde. Valido pelo efeito nos dados: contagem contra o calendário, duplicidade na chave, frescor por camada. Grande parte do meu trabalho é investigar por que um número não bate, começando pelo fim da cadeia e voltando até a origem.
 
-🔗 Conecte-se comigo no LinkedIn para acompanhar minhas atualizações e projetos!
+### 🚀 Projeto em destaque
+**[lab-pipeline-openmeteo](https://github.com/EduardoYoshioNakahara/lab-pipeline-openmeteo)**: pipeline ponta a ponta no Databricks sobre uma API pública. Extração com retry, landing particionada, bronze → silver → gold em Delta, checagem de qualidade que derruba o Job, alerta de falha parcial, time travel para desfazer uma carga errada e relatório Power BI em PBIP.
 
-👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EduardoYoshioNakahara](https://github.com/EduardoYoshioNakahara)
+### 🎯 Próximos passos
+Aprofundar em engenharia de analytics: orquestração como código, testes de dados e CI/CD para pipelines.
 
-📫 você me acha através do e-mail **eduardoyoshio153@gmail.com**
+### ⚽ Fora do trabalho
+Sou apaixonado por esportes e gosto de procurar padrões neles com dados.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/eduardo-yoshio-852543163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo yoshio" height="30" width="40" /></a>
-</p>
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-yoshio-852543163/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:eduardo.y.nakahara@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ Ferramentas
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
