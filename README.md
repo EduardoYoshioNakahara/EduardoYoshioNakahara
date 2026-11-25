@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Eduardo Yoshio
 
-🇧🇷 Português · 🇺🇸 [English](#english)
+Português · [English](#english)
 
 Analista de dados e BI em São Paulo. Trabalho do dado bruto ao dashboard: modelo camadas bronze, silver e gold em SQL, versiono as transformações e entrego relatórios em Power BI que as áreas de negócio usam no dia a dia.
 
@@ -43,7 +43,7 @@ Sou apaixonado por esportes e gosto de procurar padrões neles com dados.
 ---
 
 <a id="english"></a>
-## 🇺🇸 English
+## English
 
 Data & BI analyst based in São Paulo, Brazil. I work from raw data to dashboard: I model bronze, silver and gold layers in SQL, version every transformation and ship Power BI reports that business teams use every day.
 
